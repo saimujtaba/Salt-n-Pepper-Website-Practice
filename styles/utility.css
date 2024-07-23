@@ -127,6 +127,8 @@ html {
 .text-none {
     text-decoration: none;
     color: var(--white);
+    list-style: none;
+    text-decoration-line: none;
 }
 
 .bg-dark {
