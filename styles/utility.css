@@ -13,7 +13,7 @@ html {
 
 @font-face {
     font-family: apercu;
-    src: url(../fonts/Apercu\ Pro\ Italic.otf);
+    src: url(../fonts/Apercu\ Light.otf);
 }
 
 /* css variable */
@@ -127,8 +127,6 @@ html {
 .text-none {
     text-decoration: none;
     color: var(--white);
-    list-style: none;
-    text-decoration-line: none;
 }
 
 .bg-dark {
