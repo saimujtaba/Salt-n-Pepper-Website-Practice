@@ -6,6 +6,9 @@
     --grey: #0f0f0f;
 }
 
+
+/* Navbar Started */
+
 .navbar {
     height: 93px;
 }
@@ -54,6 +57,11 @@
     margin: 0px 5px 8px 10px;
     padding: 8px 10px;
 }
+
+/* Navbar Ended */
+
+
+/* Courasel Started */
 
 p {
     color: #ffffff;
@@ -119,3 +127,8 @@ p {
 .img-btn-3 {
     margin-left: 85px;
 }
+
+
+
+/* Courasel Ended */
+
