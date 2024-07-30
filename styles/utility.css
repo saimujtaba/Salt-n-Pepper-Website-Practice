@@ -23,6 +23,11 @@ html {
     src: url(../fonts/futurablack-bt.ttf);
 }
 
+@font-face{
+    font-family: butler;
+    src: url(../fonts/Butler_Webfont/Butler-Bold.woff);
+}
+
 /* css variable */
 
 :root {
