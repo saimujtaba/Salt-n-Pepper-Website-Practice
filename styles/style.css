@@ -63,15 +63,12 @@
 
 /* Courasel Started */
 
-p {
-    color: #ffffff;
-    text-align: center;
-}
-
 .para-1 {
     font-family: apercu;
     font-size: 40px;
     margin: 70px 400px 5px 400px;
+    text-align: center;
+    color: #ffffff;
 }
 
 .bold {
@@ -84,6 +81,7 @@ p {
     font-size: 18px;
     color: #b3b3b3;
     margin-bottom: 40px;
+    text-align: center;
 }
 
 .child-1,
@@ -127,3 +125,75 @@ p {
 .img-btn-3 {
     margin-left: 85px;
 }
+
+
+.main{
+    width: 100%;
+    height: 1168px;
+    background-color: #0f0f0f;
+    padding: 70px;
+}
+
+.saltnpepper-heading{
+    font-family: futurak;
+    font-size: 52px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.restaurant-heading{
+    font-family: butler;
+    font-size: 48px;
+    margin-bottom: 8px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.short-para{
+    font-family: apercu;
+    font-size: 18px;
+    color: #b3b3b3;
+    margin-bottom: 48px;
+    text-align: center;
+}
+
+.restaurant.container{
+    width: 490px;
+    height: 245px;
+    padding: 0px 15px;
+}
+
+.islamabad-heading{
+    font-family: apercu;
+    font-size: 18px;
+    color: #ED1C24;
+    margin-bottom: 8px;
+}
+
+.saltnpepper-mini-heading{
+    font-family: futurak;
+    font-size: 32px;
+    margin-bottom: 14px;
+    color: #ffffff;
+}
+
+.restaurant-mini-heading{
+    font-size: 32px;
+    font-family: apercu;
+    color: #ffffff;
+}
+
+.location-para{
+    color: #ffffffB3;
+    font-size: 16px;
+    font-family: apercu;
+    margin-bottom: 10px;
+}
+
+.phone-no{
+    color: #ffffffB3;
+    font-size: 16px;
+    font-family: apercu;
+    margin-bottom: 10px;
+}
+
