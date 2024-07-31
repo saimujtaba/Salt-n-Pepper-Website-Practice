@@ -131,7 +131,7 @@
     width: 100%;
     height: 1168px;
     background-color: #0f0f0f;
-    padding: 70px;
+    padding: 80px 100px;
 }
 
 .saltnpepper-heading{
@@ -158,7 +158,7 @@
 }
 
 .restaurant.container{
-    width: 490px;
+    width: 480px;
     height: 245px;
     padding: 0px 15px;
 }
@@ -173,7 +173,7 @@
 .saltnpepper-mini-heading{
     font-family: futurak;
     font-size: 32px;
-    margin-bottom: 14px;
+    margin-bottom: 18px;
     color: #ffffff;
 }
 
@@ -185,15 +185,44 @@
 
 .location-para{
     color: #ffffffB3;
-    font-size: 16px;
+    font-size: 18px;
     font-family: apercu;
     margin-bottom: 10px;
 }
 
 .phone-no{
     color: #ffffffB3;
-    font-size: 16px;
+    font-size: 18px;
     font-family: apercu;
     margin-bottom: 10px;
 }
 
+.get-direction-btn{
+    width: 180px;
+    height: 50px;
+    color: #ffffff;
+    background-color: transparent;
+    border: 1px solid #4b4b4b;
+    font-size: 14px;
+    margin-top: 40px;
+    border-radius: 32px;
+    cursor: pointer;
+}
+
+.direction-btn-icon{
+    background-color: #ffffff;
+    color: var(--red);
+    border-radius: 30px;
+    padding: 6px 8px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+#restaurant-img-1{
+    padding: 0px 15px;
+}
+
+.restaurant-img-1{
+    width: 500x;
+    height: 260px;
+}
