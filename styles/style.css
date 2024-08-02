@@ -329,6 +329,7 @@ padding: 0px 15px;
     width: 100%;
     height: 1200px;
     padding: 70px;
+    padding-bottom: 30px;
 }
 
 #saltnpepper-heading{
@@ -342,6 +343,11 @@ padding: 0px 15px;
     font-size: 48px;
     text-align: center;
     margin-bottom: 30px;
+}
+
+.express-franchise-container{
+    width: 330px;
+    height: 540px;
 }
 
 
