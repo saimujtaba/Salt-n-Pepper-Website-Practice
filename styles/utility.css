@@ -94,6 +94,10 @@ html {
     gap: 30px;
 }
 
+.gap-7{
+    gap: 60px;
+}
+
 
 .m-1 {
     margin: 5px;

@@ -223,8 +223,9 @@
 }
 
 .restaurant-img-1 {
-    width: 500x;
-    height: 260px;
+    width: 550px;
+    height: 280px;
+    margin-left: 90px;
 }
 
 #resturant-img-2 {
@@ -232,8 +233,8 @@
 }
 
 .restaurant-img-2 {
-    width: 500x;
-    height: 260px;
+    width: 560px;
+    height: 280px;
     margin-top: 60px;
 }
 
@@ -270,3 +271,4 @@
     font-family: apercu;
     margin-bottom: 10px;
 }
+
