@@ -561,6 +561,8 @@ height: 400px;
 .express-franchise-opening-soon{
     width: 100%;
     height: 1400px;
+    padding-top: 60px;
+    padding-bottom: 38px;
 }
 
 #saltnpepper-openingsoon{
@@ -570,7 +572,8 @@ height: 400px;
 }
 
 .opening-soon-heading{
-    
+font-size: 26px;
+font-family: butler;
 }
 
 
