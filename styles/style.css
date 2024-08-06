@@ -421,6 +421,25 @@ padding: 0px 15px;
     cursor: pointer
 }
 
+.location-express-8{
+    font-size: 15px;
+    font-family: apercu;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #ffffffB3;
+    padding-bottom: 20px;
+}
+
+
+.location-express-6{
+    font-size: 15px;
+    font-family: apercu;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #ffffffB3;
+    padding-bottom: 20px;
+}
+
 
 .express-franchise-container-10{
     width: 360px;
@@ -474,7 +493,7 @@ height: 400px;
 }
 
 .village-franchise-para{
-    margin: 40px 16px;
+    margin: 80px 16px 0px 16px;
     padding: 16px 15px;
     width: 570px;
     height: 275px;
@@ -504,16 +523,16 @@ height: 400px;
 
 
 .location-village{
-    font-size: 18px;
+    font-size: 16px;
     font-family: apercu;
-    margin-bottom: 14px;
+    margin-bottom: 5px;
     color: #ffffffB3;
-    padding-bottom: 20px;
+    padding-bottom: 5px;
 }
 
 .phone-village{
     margin-bottom: 12px;
-    font-size: 18px;
+    font-size: 16px;
     font-family: apercu;
     color: #ffffffB3;
     cursor: pointer;
@@ -534,6 +553,28 @@ height: 400px;
 
 /* village franchise ended */
 
+
+
+
+/* express franchise opening soon started */
+
+.express-franchise-opening-soon{
+    width: 100%;
+    height: 1400px;
+}
+
+#saltnpepper-openingsoon{
+    font-family: futurak;
+    font-size: 52px;
+    text-align: center;
+}
+
+.opening-soon-heading{
+    
+}
+
+
+/* express franchise opening soon ended */
 
 
 /* courasel ended */
