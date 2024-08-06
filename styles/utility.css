@@ -24,6 +24,11 @@ html {
     src: url(../fonts/futurablack-bt.ttf);
 }
 
+@font-face {
+    font-family: futurablack;
+    src: url(../fonts/0-charmap-futurablack-bt.png);
+}
+
 @font-face{
     font-family: butler;
     src: url(../fonts/Butler_Webfont/Butler-Bold.woff);

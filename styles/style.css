@@ -240,13 +240,13 @@
     margin-top: 60px;
 }
 
-.restaurant.container-2{
+.restaurant.container-2 {
     width: 480px;
     height: 245px;
     padding: 0px 15px;
 }
 
-.faisalabad-heading{
+.faisalabad-heading {
     font-family: apercu;
     font-size: 18px;
     color: #ED1C24;
@@ -274,13 +274,13 @@
     margin-bottom: 10px;
 }
 
-.restaurant.container-3{
+.restaurant.container-3 {
     width: 480px;
     height: 245px;
-    padding: 0px 15px;    
+    padding: 0px 15px;
 }
 
-.bahawalpur-heading{
+.bahawalpur-heading {
     font-family: apercu;
     font-size: 18px;
     color: #ED1C24;
@@ -308,11 +308,11 @@
     margin-bottom: 10px;
 }
 
-#restaurant-img-3{
-padding: 0px 15px;
+#restaurant-img-3 {
+    padding: 0px 15px;
 }
 
-.restaurant-img-3{
+.restaurant-img-3 {
     width: 550px;
     height: 280px;
     margin-top: 60px;
@@ -325,42 +325,42 @@ padding: 0px 15px;
 /* express franchise started */
 
 
-.express-franchise{
+.express-franchise {
     width: 100%;
     height: 2500px;
     padding: 70px 120px;
     padding-bottom: 30px;
 }
 
-#saltnpepper-heading{
+#saltnpepper-heading {
     font-family: futurak;
     font-size: 52px;
     text-align: center;
 }
 
-.express-franchise-heading{
+.express-franchise-heading {
     font-family: butler;
     font-size: 48px;
     text-align: center;
     margin-bottom: 30px;
 }
 
-.express-franchise-container{
+.express-franchise-container {
     width: 360px;
     height: 540px;
     padding: 0px 15px;
     margin-bottom: 32px;
 }
 
-.express-franchise-img{
+.express-franchise-img {
     width: 325px;
     height: 250px;
 }
 
-.mall-heading{
+.mall-heading {
     margin-top: 24px;
     margin-bottom: 8px;
-    color:  #ED1C24;
+    color: #ED1C24;
     font-size: 12px;
     font-family: apercu;
     text-align: center;
@@ -368,19 +368,19 @@ padding: 0px 15px;
     word-spacing: 4px;
 }
 
-.saltnpepper-express{
+.saltnpepper-express {
     font-family: futurak;
     font-size: 28px;
     text-align: center;
     margin-bottom: 18px;
 }
 
-.express-heading{
+.express-heading {
     font-family: apercu;
     font-size: 28px;
 }
 
-.location-express{
+.location-express {
     font-size: 15px;
     font-family: apercu;
     margin-bottom: 14px;
@@ -389,7 +389,7 @@ padding: 0px 15px;
     padding-bottom: 20px;
 }
 
-.phone-express{
+.phone-express {
     margin-bottom: 12px;
     text-align: center;
     font-size: 14px;
@@ -398,7 +398,7 @@ padding: 0px 15px;
     cursor: pointer;
 }
 
-.direction-btn-express{
+.direction-btn-express {
     width: 180px;
     height: 50px;
     color: #ffffff;
@@ -408,11 +408,11 @@ padding: 0px 15px;
     margin-top: 25px;
     border-radius: 32px;
     padding: 10px;
-    cursor: pointer;  
+    cursor: pointer;
     margin-left: 73px;
 }
 
-.direction-icon{
+.direction-icon {
     background-color: #ffffff;
     color: var(--red);
     border-radius: 30px;
@@ -421,7 +421,7 @@ padding: 0px 15px;
     cursor: pointer
 }
 
-.location-express-8{
+.location-express-8 {
     font-size: 15px;
     font-family: apercu;
     margin-bottom: 30px;
@@ -431,7 +431,7 @@ padding: 0px 15px;
 }
 
 
-.location-express-6{
+.location-express-6 {
     font-size: 15px;
     font-family: apercu;
     margin-bottom: 30px;
@@ -441,7 +441,7 @@ padding: 0px 15px;
 }
 
 
-.express-franchise-container-10{
+.express-franchise-container-10 {
     width: 360px;
     height: 540px;
     padding: 0px 15px;
@@ -456,43 +456,43 @@ padding: 0px 15px;
 
 /* village franchise started */
 
-.village-franchise{
+.village-franchise {
     width: 100%;
     height: 470px;
     background-color: #0f0f0f;
 }
 
-.village-franchise-heading{
+.village-franchise-heading {
     background-color: #0f0f0f;
 }
 
 
-.saltnpepper-village{
+.saltnpepper-village {
     font-family: futurak;
     font-size: 52px;
     text-align: center;
     padding: 48px 0px;
 }
 
-.village-heading{
+.village-heading {
     font-family: butler;
     font-size: 48px;
     margin-bottom: 8px;
 }
 
 
-.village-img{
-width: 650px;
-height: 400px;
+.village-img {
+    width: 650px;
+    height: 400px;
 }
 
-.village-franchise-img{
+.village-franchise-img {
     padding-right: 15px;
     width: 650px;
     height: 410px;
 }
 
-.village-franchise-para{
+.village-franchise-para {
     margin: 80px 16px 0px 16px;
     padding: 16px 15px;
     width: 570px;
@@ -501,20 +501,20 @@ height: 400px;
 }
 
 
-.saltnpepper-village-para{
+.saltnpepper-village-para {
     font-family: futurak;
     font-size: 36px;
     margin-bottom: 18px;
 }
 
-.village-para{
+.village-para {
     font-family: apercu;
     font-size: 36px;
 }
 
-.gujranwala-heading{
+.gujranwala-heading {
     margin-bottom: 8px;
-    color:  #ED1C24;
+    color: #ED1C24;
     font-size: 15px;
     font-family: apercu;
     letter-spacing: 8px;
@@ -522,7 +522,7 @@ height: 400px;
 }
 
 
-.location-village{
+.location-village {
     font-size: 16px;
     font-family: apercu;
     margin-bottom: 5px;
@@ -530,7 +530,7 @@ height: 400px;
     padding-bottom: 5px;
 }
 
-.phone-village{
+.phone-village {
     margin-bottom: 12px;
     font-size: 16px;
     font-family: apercu;
@@ -538,7 +538,7 @@ height: 400px;
     cursor: pointer;
 }
 
-.direction-btn-village{
+.direction-btn-village {
     width: 180px;
     height: 50px;
     color: #ffffff;
@@ -548,7 +548,7 @@ height: 400px;
     margin-top: 25px;
     border-radius: 32px;
     padding: 10px;
-    cursor: pointer;  
+    cursor: pointer;
 }
 
 /* village franchise ended */
@@ -558,23 +558,102 @@ height: 400px;
 
 /* express franchise opening soon started */
 
-.express-franchise-opening-soon{
+.express-franchise-opening-soon-para {
     width: 100%;
-    height: 1400px;
     padding-top: 60px;
     padding-bottom: 38px;
 }
 
-#saltnpepper-openingsoon{
+#saltnpepper-openingsoon {
     font-family: futurak;
     font-size: 52px;
     text-align: center;
 }
 
-.opening-soon-heading{
-font-size: 26px;
-font-family: butler;
+.opening-soon-heading {
+    font-size: 26px;
+    font-family: butler;
 }
+
+
+.express-franchise-openingsoon {
+    width: 100%;
+    height: 750px;
+    padding: 0px 120px;
+    gap: 28px;
+}
+
+
+.opening-soon-container {
+    width: 350px;
+    height: 230px;
+    background-color: var(--white);
+    border-radius: 5px;
+    padding: 25px 15px;
+}
+
+.location-express-icon {
+    margin-bottom: 16px;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+
+.opening-soon {
+    font-family: apercu;
+    color: #ED1C24;
+    margin-bottom: 8px;
+    font-size: 10px;
+    text-align: center;
+    letter-spacing: 4px;
+    word-spacing: 6px;
+}
+
+.saltnpeppercontainerheading{
+    text-align: center;
+    color: #000000;
+    font-size: 25px;
+    font-family: futurablack;
+    font-weight: bold;
+}
+
+.expressheading{
+    text-align: center;
+    font-family: futurablack;
+    color: #000000;
+    font-size: 21px;
+    font-weight: lighter;
+}
+
+.city-heading{
+    text-align: center;
+    font-family: futurablack;
+    color: #000000;
+    font-size: 21px;
+    margin-top: 6px;
+    margin-bottom: 8px;
+}
+
+.city-name{
+    text-align: center;
+    color: #000000;
+    font-family: futurablack;
+    font-size: 21px;
+}
+
+
+.opening-soon-container-6 {
+    width: 350px;
+    height: 230px;
+    background-color: var(--white);
+    border-radius: 5px;
+    padding: 25px 15px;
+    margin-bottom: 10px;
+    margin: 0px 0px 0px 34.2%;
+
+}
+
+
 
 
 /* express franchise opening soon ended */
