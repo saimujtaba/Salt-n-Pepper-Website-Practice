@@ -831,6 +831,7 @@
     padding-top: 20px;
     padding-left: 13px;
     margin-right: 6px;
+    cursor: pointer;
 }
 
 .instagram-icon{
@@ -842,6 +843,18 @@
     padding-top: 20px;
     padding-left: 12px;
     margin-right: 6px;
+    cursor: pointer;
 }
 
+.twitter-icon{
+    background-color: var(--red);
+    width: 40px;
+    height: 40px;
+    color: #ffffff;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+    margin-right: 6px;
+    cursor: pointer;
+}
 /* footer ended  */
