@@ -857,4 +857,29 @@
     margin-right: 6px;
     cursor: pointer;
 }
+
+.btn-1{
+    margin-top: 25px;
+}
+
+.app-store-btn{
+    border: 1px solid #4c4c4c;
+    background-color: #000000;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.google-play-btn{
+    border: 1px solid #4c4c4c;
+    background-color: #000000;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-2{
+    margin-top: 12px;
+}
+
+
+
 /* footer ended  */
