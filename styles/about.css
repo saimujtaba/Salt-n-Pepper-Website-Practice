@@ -74,7 +74,7 @@
 .introduction{
     text-align: center;
     width: 1150px;
-    height: 460px;
+    height: 370px;
     padding: 0px 15px;
     margin-left: 100px;
 }
@@ -100,7 +100,21 @@
     padding: 0px 15px;
     margin: 32px 0px 70px;
     text-align: center;
-    /* margin-left: 100px; */
+    margin-left: 100px;
+}
+
+.restaurant-heading{
+    color: #ffffff;
+    font-size: 32px;
+    font-family: apercu;
+    margin-bottom: 24px;
+}
+
+.restaurant-para{
+    color: #ffffffB3;
+    font-family: apercu;
+    font-size: 17px;
+    margin-bottom: 10px;
 }
 
 
