@@ -11,6 +11,7 @@
 
 .navbar {
     height: 93px;
+    border-bottom: 1px solid #303030;
 }
 
 .logo {
@@ -59,3 +60,49 @@
 }
 
 /* Navbar Ended */
+
+
+/* about courasel started */
+
+#about-courasel{
+    background-color: #000000;
+    width: 100%;
+    height: 4565px;
+    padding: 70px 0px;
+}
+
+.introduction{
+    text-align: center;
+    width: 1150px;
+    height: 460px;
+    padding: 0px 15px;
+    margin-left: 100px;
+}
+
+.intro-heading{
+    color: #ffffff;
+    font-size: 40px;
+    font-family: butler;
+    margin-bottom: 32px;
+}
+
+.intro-para{
+    color: #ffffffB3;
+    font-family: apercu;
+    font-size: 17px;
+    margin-bottom: 15px;
+}
+
+
+.restaurant{
+    width: 1150px;
+    height: 206px;
+    padding: 0px 15px;
+    margin: 32px 0px 70px;
+    text-align: center;
+    /* margin-left: 100px; */
+}
+
+
+
+/* about courasel ended */

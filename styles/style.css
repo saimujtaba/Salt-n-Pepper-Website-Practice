@@ -725,7 +725,8 @@
 }
 
 .site-link {
-    width: 15%;
+    width: 14%;
+    row-gap: 20px;
 }
 
 #site-link-heading {
@@ -743,8 +744,11 @@
     color: #ffffffB3;
     font-size: 16px;
     font-family: apercu;
+    text-decoration: none;
+}
+
+.link-padding {
     padding-bottom: 16px;
-    cursor: pointer;
 }
 
 #contact-us {
