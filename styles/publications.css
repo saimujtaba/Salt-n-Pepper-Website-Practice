@@ -63,66 +63,290 @@
 
 
 
- /* body started  */
+/* body started  */
 
- .main{
+.main {
     width: 100%;
     height: 1280px;
     padding-top: 72px;
- }
+}
 
- .content{
+.content {
     width: 540px;
     height: 570px;
     margin-bottom: 24px;
     padding-top: 32px;
     padding-bottom: 40px;
     border: 1px solid #525252;
- }
+}
 
- .img{
+.img {
     width: 540px;
     height: 500px;
- }
+}
 
- .branches{
+.branches {
     width: 520px;
     height: 580px;
     padding: 0px 15px;
     text-align: center;
     margin-bottom: 60px;
- }
+}
 
- .heading{
+.heading {
     font-family: butler;
     font-size: 32px;
     margin-top: 20px;
     margin-bottom: 32px;
     padding-bottom: 5px;
- }
+}
 
- .saltnpepper-mini-heading{
+.saltnpepper-mini-heading {
     font-size: 16px;
     font-family: apercu;
     margin-top: 15px;
     margin-bottom: 10px;
     padding-top: 5px;
- }
+}
 
- .location-para{
+.location-para {
     font-size: 14.5px;
     font-family: apercu;
     margin-bottom: 15px;
     color: #ffffffB3;
- }
+}
 
- .ph-no{
+.ph-no {
     color: #ffffffB3;
     font-size: 14px;
     font-family: apercu;
     cursor: pointer;
     text-decoration: none;
     padding-bottom: 7px;
- }
+}
 
- /* body ended   */
+/* body ended   */
+
+
+/* footer started */
+
+.footer {
+    background-color: #0f0f0f;
+    width: 100%;
+    height: 520px;
+    padding: 70px 15px 0px 15px;
+}
+
+
+.saltnpepper-info {
+    width: 28%;
+    margin-left: 40px;
+    padding-left: 10px;
+}
+
+.saltnpepper-footer-logo {
+    height: 65px;
+    width: 140px;
+    margin-bottom: 24px;
+}
+
+.footer-para {
+    font-family: apercu;
+    font-size: 16px;
+    color: #ffffffB3;
+    margin-bottom: 24px;
+    word-spacing: 2px;
+}
+
+.site-link {
+    width: 14%;
+    row-gap: 20px;
+}
+
+#site-link-heading {
+    color: #ffffff;
+    font-size: 16px;
+    margin-bottom: 24px;
+    font-family: butler;
+}
+
+.privacy {
+    cursor: pointer;
+}
+
+.links {
+    color: #ffffffB3;
+    font-size: 16px;
+    font-family: apercu;
+    text-decoration: none;
+}
+
+.link-padding {
+    padding-bottom: 16px;
+}
+
+#contact-us {
+    width: 17%;
+}
+
+.contact {
+    color: #ffffff;
+    font-size: 16px;
+    margin-bottom: 24px;
+    font-family: butler;
+}
+
+
+.head-office-heading {
+    color: #ffffff;
+    font-size: 16px;
+    margin-bottom: 16px;
+    font-family: apercu;
+    font-weight: bold;
+}
+
+.address {
+    color: #ffffffB3;
+    font-size: 16px;
+    font-family: apercu;
+    padding-bottom: 16px;
+}
+
+.office-no {
+    color: #ffffff;
+    font-size: 16px;
+    margin-bottom: 16px;
+    font-family: apercu;
+    font-weight: bold;
+}
+
+.number {
+    color: #ffffffB3;
+    font-size: 16px;
+    font-family: apercu;
+    padding-bottom: 16px;
+    cursor: pointer;
+}
+
+
+.email {
+    color: #ffffff;
+    font-size: 16px;
+    margin-bottom: 16px;
+    font-family: apercu;
+    font-weight: bold;
+}
+
+.email-address {
+    color: #ffffffB3;
+    font-size: 16px;
+    font-family: apercu;
+    padding-bottom: 16px;
+    cursor: pointer;
+}
+
+.delivery-no {
+    color: #ffffff;
+    font-size: 16px;
+    margin-bottom: 16px;
+    font-family: apercu;
+    font-weight: bold;
+}
+
+.follow-us {
+    margin-right: 60px;
+    padding-right: 32px;
+}
+
+
+.follow {
+    color: #ffffff;
+    font-size: 16px;
+    margin-bottom: 24px;
+    font-family: butler;
+}
+
+
+.facebook-icon {
+    background-color: var(--red);
+    width: 40px;
+    height: 40px;
+    color: #ffffff;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 13px;
+    margin-right: 6px;
+    cursor: pointer;
+}
+
+.instagram-icon {
+    background-color: var(--red);
+    width: 40px;
+    height: 40px;
+    color: #ffffff;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 12px;
+    margin-right: 6px;
+    cursor: pointer;
+}
+
+.twitter-icon {
+    background-color: var(--red);
+    width: 40px;
+    height: 40px;
+    color: #ffffff;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+    margin-right: 6px;
+    cursor: pointer;
+}
+
+.btn-1 {
+    margin-top: 25px;
+}
+
+.app-store-btn {
+    border: 1px solid #4c4c4c;
+    background-color: #000000;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.google-play-btn {
+    border: 1px solid #4c4c4c;
+    background-color: #000000;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-2 {
+    margin-top: 12px;
+}
+
+
+.powered-by {
+    width: 100%;
+    height: 50px;
+    border-top: 1px solid #222222;
+    background-color: var(--grey);
+    align-items: center;
+}
+
+.end-saltnpepper {
+    font-family: apercu;
+    font-size: 14px;
+    color: #ffffffB3;
+    padding-left: 120px;
+}
+
+.powered-by-saim {
+    font-family: apercu;
+    font-size: 14px;
+    color: #ffffffB3;
+    padding-right: 120px;
+}
+
+
+/* footer ended */
