@@ -61,3 +61,25 @@
 
 /* Navbar Ended */
 
+
+
+ /* body started  */
+
+ .main{
+    width: 100%;
+    height: 1280px;
+    padding-top: 72px;
+ }
+
+ .content{
+    width: 500px;
+    height: 540px;
+    margin-bottom: 32px;
+    padding-top: 32px;
+    padding-bottom: 40px;
+    border: 1px solid #525252;
+ }
+
+
+
+ /* body ended   */
