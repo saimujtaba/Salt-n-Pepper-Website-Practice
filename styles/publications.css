@@ -85,5 +85,19 @@
     height: 500px;
  }
 
+ .branches{
+    width: 520px;
+    height: 600px;
+    padding: 0px 15px;
+    text-align: center;
+ }
+
+ .heading{
+    font-family: butler;
+    font-size: 32px;
+    margin-top: 20px;
+    margin-bottom: 24px;
+ }
+
 
  /* body ended   */
