@@ -74,7 +74,7 @@
  .content{
     width: 540px;
     height: 570px;
-    margin-bottom: 32px;
+    margin-bottom: 24px;
     padding-top: 32px;
     padding-bottom: 40px;
     border: 1px solid #525252;
@@ -96,8 +96,29 @@
     font-family: butler;
     font-size: 32px;
     margin-top: 20px;
-    margin-bottom: 24px;
+    margin-bottom: 32px;
  }
 
+ .saltnpepper-mini-heading{
+    font-size: 16px;
+    font-family: apercu;
+    margin-top: 12px;
+    margin-bottom: 10px;
+ }
+
+ .location-para{
+    font-size: 14px;
+    font-family: apercu;
+    margin-bottom: 14px;
+    color: #ffffffB3;
+ }
+
+ .ph-no{
+    color: #ffffffB3;
+    font-size: 14px;
+    font-family: apercu;
+    cursor: pointer;
+    text-decoration: none;
+ }
 
  /* body ended   */
