@@ -72,8 +72,8 @@
  }
 
  .content{
-    width: 500px;
-    height: 540px;
+    width: 540px;
+    height: 570px;
     margin-bottom: 32px;
     padding-top: 32px;
     padding-bottom: 40px;
@@ -81,9 +81,8 @@
  }
 
  .img{
-    width: 495px;
-    height: 460px;
-    background-color: #ed1c24;
+    width: 540px;
+    height: 500px;
  }
 
 
