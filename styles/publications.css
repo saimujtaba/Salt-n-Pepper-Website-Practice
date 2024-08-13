@@ -80,6 +80,11 @@
     border: 1px solid #525252;
  }
 
+ .img{
+    width: 495px;
+    height: 460px;
+    background-color: #ed1c24;
+ }
 
 
  /* body ended   */
