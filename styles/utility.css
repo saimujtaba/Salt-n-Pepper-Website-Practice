@@ -34,6 +34,19 @@ html {
     src: url(../fonts/Butler_Webfont/Butler-Bold.woff);
 }
 
+@font-face {
+    font-family: philosopher;
+    src: url(../fonts/Philosopher-Bold.ttf);
+}
+
+@font-face {
+    font-family: dosis;
+    src: url(../fonts/Dosis-VariableFont_wght.ttf);
+}
+
+
+
+
 /* css variable */
 
 :root {
