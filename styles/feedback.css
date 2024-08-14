@@ -64,20 +64,20 @@
 
 /* courasel started */
 
-.courasel-container{
+.courasel-container {
     width: 100%;
     height: 750px;
     align-content: center;
     background-image: url(../images/feedback\ courasel\ img\ edit.jpg);
 }
 
-.snp-heading{
+.snp-heading {
     font-size: 43px;
     font-family: apercu;
     text-align: center;
 }
 
-.feedback-heading{
+.feedback-heading {
     font-size: 100px;
     font-family: sans-serif;
     text-align: center;
@@ -85,9 +85,9 @@
     font-weight: bold;
 }
 
-.short-para{
-    font-size:19px;
-    font-family: apercu,sans-serif;
+.short-para {
+    font-size: 19px;
+    font-family: apercu, sans-serif;
     text-align: center;
     margin-top: 5px;
     text-transform: capitalize;
