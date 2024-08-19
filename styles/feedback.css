@@ -220,6 +220,42 @@
     padding-top: 10px;
 }
 
+.favourite-item{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-family: apercu;
+}
+
+.main-container{
+    display: flex;
+    column-gap: 30px;
+}
+
+#put-item-container{
+    width: 165px;
+    height: 55px;
+}
+
+.numbering{
+    font-size: 12px;
+}
+
+.box{
+    width: 165px;
+    height: 50px;
+    margin-top: 5px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+.current-menu{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-family: apercu;
+}
 
 
 
