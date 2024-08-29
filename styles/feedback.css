@@ -121,7 +121,7 @@
 
 .feedback-portion {
     width: 100%;
-    height: 1080px;
+    height: 1130px;
     display: flex;
     padding: 0px 30px 30px 30px;
 }
@@ -371,7 +371,7 @@
 
 
 
-/* footer started  */
+/* footer started */
 
 .footer {
     background-color: #0f0f0f;
@@ -591,4 +591,5 @@
     padding-right: 120px;
 }
 
-/* footer ended  */
+
+/* footer ended */
