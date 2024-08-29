@@ -328,16 +328,23 @@
     font-size: 17px;
     font-family: sans-serif;
     text-align: justify;
-    margin: 30px 20px 40px 25px;
+    margin: 30px 20px 35px 25px;
     line-height: 22px;
 }
 
 .contact-us-heading{
-    font-size: 16px;
+    font-size: 25px;
     font-family: sans-serif;
     text-align: center;
     margin-top: 10px;
+    margin-bottom: 30px;
 }
+
+.location{
+    margin-left: 25px;
+}
+
+
 
 
 
